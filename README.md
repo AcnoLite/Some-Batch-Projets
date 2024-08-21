@@ -81,7 +81,3 @@ Feel free to submit issues for bugs or feature requests as well!
 ## License
 
 This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to adapt and modify this `README.md` to suit your project's specific needs!
