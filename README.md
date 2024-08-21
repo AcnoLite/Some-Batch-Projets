@@ -1,7 +1,3 @@
-Here is a sample `README.md` for a GitHub repository named **"Some Batch Projects"**:
-
----
-
 # Some Batch Projects
 
 Welcome to **Some Batch Projects**, a collection of useful and experimental batch scripts designed to automate various tasks on Windows systems. Whether you're a beginner looking to learn more about batch scripting or a seasoned developer seeking to streamline your workflows, this repository has something for you.
